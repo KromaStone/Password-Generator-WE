@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Proton Speed",
+    "version": "1.0",
+    "description": "Measures the internet speed (download, upload, and latency).",
+    "action": {
+        "default_popup": "Index.html",
+        "default_icon": "icon.png"
+    },
+    "permissions": [
+        "activeTab",
+        "storage"
+    ]
+}
